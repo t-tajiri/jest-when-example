@@ -1,0 +1,9 @@
+{
+  "name": "jest-when-example",
+  "version": "1.0.0",
+  "author": "t-tajiri",
+  "license": "MIT",
+  "dependencies": {
+    "jest-when": "^2.7.0"
+  }
+}
