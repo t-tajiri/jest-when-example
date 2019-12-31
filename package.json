@@ -7,11 +7,12 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
     "jest": "^24.9.0",
     "jest-when": "^2.7.0"
-  },
-  "jest": {
-
   }
 }
